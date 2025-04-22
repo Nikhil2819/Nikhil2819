@@ -1,5 +1,5 @@
 # **Hi, I'm Nikhil Rawat**  
-I'm a Full Stack & Software Developer with expertise in building scalable web applications and open-source projects. 📧 Feel free to reach out to me at nikhilrawatji28@gmail.com@gmail.com   
+I'm a Full Stack & Software Developer with expertise in building scalable web applications and open-source projects. 📧 Feel free to reach out to me at nikhilrawatji28@gmail.com   
 
 ### Areas of Expertise: 
 - Web Development (MERN, AngularJs, NextJs, AWS, Azure, GCP)
@@ -38,11 +38,11 @@ I'm a Full Stack & Software Developer with expertise in building scalable web ap
 <a href="https://github.com/GitNikhil2819" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/Nikhil-Rawat-ab40a825b" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/nikhil-rawat-04b8ab2aa/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/Nikhil.Rawat2819" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/__nikhil__rawat?igsh=ZjZ3aW41eGpwbHc3&utm_source=qr" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
