@@ -1,4 +1,4 @@
-# **Hi, I'm Nikhil Rawat**  
+<img width="1440" alt="Screenshot 2025-06-09 at 15 18 40" src="https://github.com/user-attachments/assets/10f043be-0179-4179-82df-1c4fad99948d" /># **Hi, I'm Nikhil Rawat**  
 I'm a Full Stack & Software Developer with expertise in building scalable web applications and open-source projects. 📧 Feel free to reach out to me at nikhilrawatji28@gmail.com   
 
 ### Areas of Expertise: 
@@ -33,18 +33,23 @@ I'm a Full Stack & Software Developer with expertise in building scalable web ap
 <br/>  
 
 
-## Connect with me  
+## 🚀 Connect with me
 <div align="center">
-<a href="https://github.com/GitNikhil2819" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/nikhil-rawat-04b8ab2aa/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/__nikhil__rawat?igsh=ZjZ3aW41eGpwbHc3&utm_source=qr" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  
+  <a href="https://github.com/GitNikhil12819" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://linkedin.com/in/nikhil-rawat-04b8ab2aa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://www.instagram.com/__nikhil__rawat7?igsh=ZjZ3aW41eGpwblhC36&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+</div>
+
   
 
 <br/>  
