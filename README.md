@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2025-06-09 at 15 18 40" src="https://github.com/user-attachments/assets/10f043be-0179-4179-82df-1c4fad99948d" /># **Hi, I'm Nikhil Rawat**  
+
 I'm a Full Stack & Software Developer with expertise in building scalable web applications and open-source projects. 📧 Feel free to reach out to me at nikhilrawatji28@gmail.com   
 
 ### Areas of Expertise: 
@@ -40,7 +40,7 @@ I'm a Full Stack & Software Developer with expertise in building scalable web ap
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="https://linkedin.com/in/nikhil-rawat-04b8ab2aa/" target="_blank">
+  <a href="https://linkedin.com/in/nikhil-rawat-04b8ab2aa/" target="https://www.linkedin.com/in/nikhil-rawat-04b8ab2aa/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
