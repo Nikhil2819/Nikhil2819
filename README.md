@@ -38,7 +38,7 @@ I'm a Full Stack Developer, Data Analysts with expertise in building scalable we
 
 ## Connect with me  
 <div align="center">
-  <a href="" target="_blank">
+  <a href="https://github.com/Nikhil2819" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/nikhil-rawat-04b8ab2aa/" target="_blank">
