@@ -1,5 +1,5 @@
 # **Hi, I'm NIKHIL RAWAT**  
-I'm a Full Stack Developer, Data Analysts with expertise in building scalable web applications and open-source projects. 📧 Feel free to reach out to me at manyakumari222@gmail.com   
+I'm a Full Stack Developer, Data Analysts with expertise in building scalable web applications and open-source projects. 📧 Feel free to reach out to me at nikhilrawatji28@gmail.com   
 
 ### Areas of Expertise: 
 - Web Development (MERN, AngularJs, NextJs, AWS, Azure, GCP)
